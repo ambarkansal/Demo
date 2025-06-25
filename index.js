@@ -12,3 +12,6 @@ function Akki(){
     return "Akki is a good boy"
 }
 
+function greet(){
+    return "Hello, welcome to the JavaScript world!";
+}
