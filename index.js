@@ -9,7 +9,7 @@ function displayName(name){
 }
 
 function Akki(){
-    return "Akki is a good boy"
+    return "Akki is a  very good boy"
 }
 
 function greet(){
